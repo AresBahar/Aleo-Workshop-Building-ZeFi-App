@@ -1,9 +1,3 @@
-# DokoJS Developer Guide
-
-## Introduction
-
-DokoJS is a powerful and lightweight library designed for seamless interaction with the Aleo blockchain and its diverse ecosystem. Drawing inspiration from the [zk-gaming-toolkit](https://github.com/kryha/zk-gaming-toolkit), dokojs fully harnesses existing tools while offering a user-friendly interface for developers keen on building atop the Aleo blockchain.
-
 ## Installation
 
 Before beginning, make sure you have the following set up:
@@ -17,8 +11,8 @@ Before beginning, make sure you have the following set up:
 **3. Leo language**:
 [Installation Guide](https://github.com/aleoHQ/leo)
 
-### From NPM
 
+**4. DokoJS**:
 Install dokojs globally using npm:
 `npm install -g @doko-js/cli@latest`
 
