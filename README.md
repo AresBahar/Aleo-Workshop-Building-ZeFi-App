@@ -16,13 +16,10 @@ Before beginning, make sure you have the following set up:
 Install dokojs globally using npm:
 `npm install -g @doko-js/cli@latest`
 
-## Usage
+**5. Install dependencies**
+`npm install' in the project root 
 
-To use DokoJS, in your terminal, run:
-
-```bash
-dokojs
-```
+## Compiling the app
 
 To compile the project, run:
 
